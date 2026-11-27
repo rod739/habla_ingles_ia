@@ -1,6 +1,5 @@
 # habla_ingles_ia
 
-<img width="1200" height="1600" alt="78813f6c-3145-43ac-923e-fd483bda4a73" src="https://github.com/user-attachments/assets/4f5de008-b751-4475-b7c6-a6adc43c398a" />
 
 <img width="739" height="1600" alt="540dec8b-0f4b-4ece-9f45-c89e28e45cf5" src="https://github.com/user-attachments/assets/4d3b7a91-14f2-444d-bd18-ad563d5f949c" />
 
