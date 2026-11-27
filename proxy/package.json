@@ -1,0 +1,11 @@
+{
+  "name": "habla-fluido-proxy",
+  "version": "1.0.0",
+  "description": "Proxy del tutor de IA para Habla Fluido (protege la llave y el prompt).",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
